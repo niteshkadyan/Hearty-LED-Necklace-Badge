@@ -1,0 +1,4 @@
+#Fri Mar 09 17:57:38 IST 2018
+base.0=/home/kadyan/Android/Projects/Bluetooth-Hearty-LED/HeartyLED/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
